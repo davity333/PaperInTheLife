@@ -1,0 +1,119 @@
+#description{
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+
+ position: absolute;
+ justify-content: center;
+ font-size: 35px;
+ margin-left: -700px;
+ margin-top: -90px;
+ color: rgb(24, 67, 120);
+
+ text-shadow: 1px 1px 18px rgba(48,165,195,0.76);
+}
+
+#personal{
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #4E95D9;
+
+    position: absolute;
+    margin-top: 29%;
+    margin-left: -43%;
+    font-size: 60px;
+}
+
+#amigos{
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #4E95D9;
+
+    position: absolute;
+    margin-top: 133%;
+    margin-left: -43%;
+    font-size: 60px;
+}
+
+#texas{
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #4E95D9;
+
+    position: absolute;
+    margin-top: 256%;
+    margin-left: -43%;
+    font-size: 60px;
+}
+
+#tienda{
+    font-family: "Silkscreen", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+
+    color: #C04F15;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 378%;
+    margin-left: -9%;
+    font-size: 70px;
+}
+
+#cuento{
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+    position: absolute;
+    color: #C04F15;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 385%;
+    margin-left: -42%;
+    font-size: 70px;
+}
+
+#precioUno{
+    position: absolute;
+    font-size: 55px;
+    margin-top: 430%;
+    left: 15%;
+    color: rgb(171, 43, 43);
+
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    text-shadow: 4px 4px 16px rgba(82, 15, 15, 0.67);
+}
+
+#precioDos{
+    position: absolute;
+    font-size: 55px;
+    margin-top: 430%;
+    left: 48%;
+    color: rgb(171, 43, 43);
+
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    text-shadow: 4px 4px 16px rgba(82, 15, 15, 0.67);
+}
+
+#precioTres{
+    position: absolute;
+    font-size: 55px;
+    margin-top: 430%;
+    left: 81%;
+    color: rgb(171, 43, 43);
+
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    text-shadow: 4px 4px 16px rgba(82, 15, 15, 0.67);
+}
